@@ -53,4 +53,4 @@ Proyecto en desarrollo activo. Última actualización: _hace unos días_.
 
 ## 🔗 Enlace al repositorio
 
-[🔗 GitHub Repository](https://github.com/davidr1217/schoolar2)
+[🔗 GitHub Repository](https://github.com/davidr1217/schoolar2.git)
