@@ -1,4 +1,4 @@
-# 🎓 schoolar2
+# schoolar2
 
 > Una plataforma educativa pensada para optimizar el aprendizaje y gestión académica usando tecnologías web modernas.
 
