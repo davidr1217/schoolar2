@@ -47,7 +47,7 @@ Este proyecto está bajo la licencia **GPL-3.0**. Consulta el archivo `LICENSE` 
 
 ## ✨ Estado
 
-Proyecto en desarrollo activo. Última actualización: _hace unos dias_.
+Proyecto en desarrollo activo. Última actualización: _hace unos días_.
 
 ---
 
